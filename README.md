@@ -1,6 +1,6 @@
-# Hello there, I'm Kisekka David
+# Hello there, I'm Emmanuel Opollo
 
-:computer: I am a **Backend Developer with over 3 years of proffesional experience**
+:computer: I am a **Software Developer with over 4 years of proffesional experience**
 
 :pushpin: Currently based in Kampala, Uganda
 
