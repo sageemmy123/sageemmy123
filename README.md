@@ -4,19 +4,18 @@
 
 :pushpin: Currently based in Kampala, Uganda
 
-:writing_hand: I write about the backend technologies I use, personel projects and anything I find resourceful. Check out my <a href="https://davidkg.medium.com/">blog</a>
+:writing_hand: I write about the backend technologies I use, personel projects and anything I find resourceful.
 
 :v: I like watching movies, anime, listening to :headphones: music and constantly learning/improving my skills.
-    Currently learning rust and solana development.
+    Currently learning NodeJs.
 
 
 ## My Skills
 
-![](https://img.shields.io/badge/python-python/?logo=python&style=for-the-badge&color=blue&logoColor=yellow)<br>
-![](https://img.shields.io/badge/django-django/?logo=django&style=for-the-badge)
-![](https://img.shields.io/badge/flask-flask/?logo=flask&style=for-the-badge&color=black)
-![](https://img.shields.io/badge/django_rest_framework-E34F26?logo=django&style=for-the-badge)
-![](https://img.shields.io/badge/graphql-%23CC6699?logo=graphql&style=for-the-badge&logoColor=blue)<br>
+![](https://img.shields.io/badge/NodeJs-NodeJs/?logo=nodejs&style=for-the-badge&color=blue&logoColor=yellow)<br>
+![](https://img.shields.io/badge/csharp-csharp/?logo=csharp&style=for-the-badge)
+![](https://img.shields.io/badge/react-react/?logo=react&style=for-the-badge&color=black)
+![](https://img.shields.io/badge/express_js-E34F26?logo=express&style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?logo=Redis&style=for-the-badge&logoColor=black)
 ![](https://img.shields.io/badge/MySQL-0081CB?logo=MySQL&style=for-the-badge&logoColor=orange)
