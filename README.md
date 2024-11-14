@@ -12,8 +12,9 @@
 
 ## My Skills
 
-![](https://img.shields.io/badge/NodeJs-NodeJs/?logo=nodejs&style=for-the-badge&color=blue&logoColor=yellow)<br>
-![](https://img.shields.io/badge/csharp-csharp/?logo=csharp&style=for-the-badge)
+
+![](https://img.shields.io/badge/csharp-csharp/?logo=csharp&style=for-the-badge)<br>
+![](https://img.shields.io/badge/NodeJs-NodeJs/?logo=nodejs&style=for-the-badge&color=blue&logoColor=yellow)
 ![](https://img.shields.io/badge/react-react/?logo=react&style=for-the-badge&color=black)
 ![](https://img.shields.io/badge/express_js-E34F26?logo=express&style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
