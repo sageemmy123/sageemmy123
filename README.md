@@ -1,6 +1,6 @@
 # Hello there, I'm Emmanuel Opollo
 
-:computer: I am a **Software Developer with over 4 years of proffesional experience**
+:computer: I am a **Software Developer with over 6 years of proffesional experience**
 
 :pushpin: Currently based in Kampala, Uganda
 
