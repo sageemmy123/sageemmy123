@@ -12,7 +12,21 @@
 
 ## My Skills
 
-
+![](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Entity_Framework_Core-2C3331?logo=dotnet&style=for-the-badge&logoColor=green)
+![](https://img.shields.io/badge/SignalR-1F2D3D?logo=dotnet&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/IdentityServer-3B2A45?logo=dotnet&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Azure_Functions-1F456E?logo=azurefunctions&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Blazor-5A5D5E?logo=dotnet&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/Redis-DC382D?logo=Redis&style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/Azure_SQL-0078D4?logo=microsoftazure&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=Azure_DevOps&style=for-the-badge&color=darkblue)
+![](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=darkblue)
 ![](https://img.shields.io/badge/csharp-csharp/?logo=csharp&style=for-the-badge)<br>
 ![](https://img.shields.io/badge/NodeJs-NodeJs/?logo=nodejs&style=for-the-badge&color=blue&logoColor=yellow)
 ![](https://img.shields.io/badge/react-react/?logo=react&style=for-the-badge&color=black)
